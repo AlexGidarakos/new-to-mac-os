@@ -13,7 +13,7 @@ However, said layout compared to the Logitech UK layout (which appears to be the
 
 In order to resolve this issue, I used [Ukelele](https://software.sil.org/ukelele/) to create a custom keyboard layout bundle that fixes this inconsistency. It can be downloaded an installed following the instructions below on the Terminal:
 
-```bash
+```shell
 # Download the zipped bundle
 curl --output-dir /var/tmp/ -LJO https://github.com/alexg-kainos/new-to-mac-os/raw/master/custom_keyboard_layouts/Logitech_UK.bundle.zip
 
