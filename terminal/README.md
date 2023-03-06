@@ -17,4 +17,15 @@ Visit the project's GitHub repo
 
 <https://github.com/ohmyzsh/ohmyzsh>
 
-and follow the instructions to install. There is no need for lengthy initial customisations; just by keeping the default options, your zsh experience will be markedly improved.
+and follow the instructions to install. There is no need for lengthy initial customisations; just by keeping the default options, your zsh experience will be markedly improved. But these are some plugins that you'll probably want to add immediately in **`~/.zshrc`**:
+
+```shell
+# Which plugins would you like to load?
+# Standard plugins can be found in $ZSH/plugins/
+# Custom plugins may be added to $ZSH_CUSTOM/plugins/
+# Example format: plugins=(rails git textmate ruby lighthouse)
+# Add wisely, as too many plugins slow down shell startup.
+plugins=(git terraform aws azure docker)
+```
+
+These give you custom prompts, aliases, helper functions  and Tab autocompletion functionality for the commands and subcommands of the respective CLI clients/binaries.
