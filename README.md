@@ -8,3 +8,4 @@ If you are going through the same process and are now reading this, I hope that 
 
 - [Custom keyboard layouts](https://github.com/alexg-kainos/new-to-mac-os/tree/master/custom_keyboard_layouts)
 - [Terminal enhancements](https://github.com/alexg-kainos/new-to-mac-os/tree/master/terminal)
+- [Fix external keyboard Home and End keys behaviour](https://discussions.apple.com/thread/251108215)
