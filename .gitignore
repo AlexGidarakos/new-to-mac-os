@@ -1,1 +1,15 @@
+# Certificates
+*.key
+*.pub
+*.pem
+*.crt
+
+# AWS Access Keys CSV
+*accessKeys.csv*
+
+# macOS DS Store files
 .DS_Store
+
+# Add custom suffixes to files or directories to ignore
+*-gitignore*
+*.gitignore.*
