@@ -15,7 +15,7 @@ In order to resolve this issue, I used [Ukelele](https://software.sil.org/ukelel
 
 ```shell
 # Download the zipped bundle
-curl --output-dir /var/tmp/ -LJO https://github.com/AlexGidarakos/new-to-mac-os/raw/master/custom-keyboard-layouts/Logitech-UK.bundle.zip
+curl --output-dir /var/tmp/ -LJO https://github.com/AlexGidarakos/new-to-mac-os/raw/master/files/Logitech-UK.bundle.zip
 
 # Unzip bundle contents to system directory containing layouts
 sudo unzip /var/tmp/Logitech_UK.bundle -x "__MACOSX*" -d /Library/Keyboard\ Layouts/
