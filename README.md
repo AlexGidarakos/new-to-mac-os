@@ -6,6 +6,6 @@ Having no prior experience with macOS, it has been very disheartening to see my 
 
 If you are going through the same process and are now reading this, I hope that you find some of these notes useful!
 
-- [Custom keyboard layouts](./custom_keyboard_layouts)
+- [Custom keyboard layouts](./custom-keyboard-layouts)
 - [Terminal enhancements](./terminal)
 - [Fix external keyboard Home and End keys behaviour](https://discussions.apple.com/thread/251108215)
