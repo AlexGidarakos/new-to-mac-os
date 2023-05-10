@@ -9,3 +9,4 @@ If you are going through the same process and are now reading this, I hope that 
 - [Custom keyboard layouts](custom-keyboard-layouts.md)
 - [Terminal enhancements](terminal.md)
 - [Fix external keyboard Home and End keys behaviour](https://discussions.apple.com/thread/251108215)
+- [Emulate Windows shortcuts](emulate-windows-shortcuts.md)
