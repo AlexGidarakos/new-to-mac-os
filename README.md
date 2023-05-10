@@ -6,6 +6,7 @@ Having no prior experience with macOS, it has been very disheartening to see my 
 
 If you are going through the same process and are now reading this, I hope that you find some of these notes useful!
 
-- [Custom keyboard layouts](https://github.com/alexg-kainos/new-to-mac-os/tree/master/custom_keyboard_layouts)
-- [Terminal enhancements](https://github.com/alexg-kainos/new-to-mac-os/tree/master/terminal)
+- [Custom keyboard layouts](custom-keyboard-layouts.md)
+- [Terminal enhancements](terminal.md)
 - [Fix external keyboard Home and End keys behaviour](https://discussions.apple.com/thread/251108215)
+- [Emulate Windows shortcuts](emulate-windows-shortcuts.md)
