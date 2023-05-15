@@ -27,6 +27,10 @@ cp -np \
 ;
 ```
 
+```shell
+chmod u+x ~/.local/bin/bbb.sh
+```
+
 ## Create crontab entry
 ```shell
 crontab -e
