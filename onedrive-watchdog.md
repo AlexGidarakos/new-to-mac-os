@@ -20,7 +20,7 @@ nano ~/.local/bin/odw.sh
 #!/usr/bin/env bash
 
 pgrep "OneDrive" &> /dev/null || \
-terminal-notifier \
+/opt/homebrew/bin/terminal-notifier \
   -title "OneDrive Watchdog" \
   -message "OneDrive does not appear to be running. Click the \"Show\" button to try and start it." \
   -sound "default" \
