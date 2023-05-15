@@ -19,6 +19,7 @@ nano ~/.local/bin/bbb.sh
 
 ```shell
 #!/usr/bin/env bash
+
 BBB_SOURCE_DIR=$(ls -dt ~/Library/Application\ Support/Firefox/Profiles/* | head -1)/bookmarkbackups
 BBB_TARGET_DIR="~/Documents/backup/firefox-bookmarks/"
 cp -np \
@@ -38,5 +39,5 @@ crontab -e
 
 ```shell
 MAILTO=""
-0 14 * * * ~/.local/bin/bbb.sh >/dev/null 2>&1
+0 14 * * * ~/.local/bin/bbb.sh &> /dev/null
 ```
