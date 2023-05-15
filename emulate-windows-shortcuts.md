@@ -15,3 +15,26 @@ In the field "Menu Title", you must enter the exact action that appears in the E
 ![macOS new App Shortcut](img/emulate-windows-shortcuts-3.png)
 
 Most applications use the generic "Cut", "Copy", "Paste", "Undo", "Redo", "Select All" etc. action names, however there are some applications such as Sublime Text that add qualifiers like "Undo Right Delete". Once you enter the "Menu Title", click in the input field next to "Keyboard Shortcut" and type your desired shortcut, then click "Done". Repeat for additional shortcuts.
+
+## Common App Shortcuts
+```
+Close                  - Ctrl+W
+Close Tab              - Ctrl+W
+Copy                   - Ctrl+C
+Cut                    - Ctrl+X
+Find in Page...        - Ctrl+F
+New Tab                - Ctrl+T
+New Window             - Ctrl+N
+Paste                  - Ctrl+V
+Redo                   - Ctrl+Y
+Redo Paste             - Ctrl+Y
+Redo Right Delete      - Ctrl+Y
+Repeat Right Delete    - Ctrl+Y
+Save                   - Ctrl+S
+Select All             - Ctrl+A
+Undo                   - Ctrl+Z
+Undo Cut               - Ctrl+Z
+Undo Insert Characters - Ctrl+Z
+Undo Paste             - Ctrl+Z
+Undo Right Delete      - Ctrl+Z
+```
