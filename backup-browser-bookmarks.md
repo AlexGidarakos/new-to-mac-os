@@ -21,7 +21,7 @@ nano ~/.local/bin/bbb.sh
 #!/usr/bin/env bash
 
 BBB_SOURCE_DIR=$(ls -dt ~/Library/Application\ Support/Firefox/Profiles/* | head -1)/bookmarkbackups
-BBB_TARGET_DIR="~/Documents/backup/firefox-bookmarks/"
+BBB_TARGET_DIR="/Users/USERNAME/Documents/backup/firefox-bookmarks/"
 cp -np \
   "$BBB_SOURCE_DIR"/* \
   "$BBB_TARGET_DIR" \
