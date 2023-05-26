@@ -22,6 +22,7 @@ Close                  - Ctrl+W
 Close Tab              - Ctrl+W
 Copy                   - Ctrl+C
 Cut                    - Ctrl+X
+Find...                - Ctrl+F
 Find in Page...        - Ctrl+F
 New Tab                - Ctrl+T
 New Window             - Ctrl+N
